@@ -20,7 +20,7 @@ Wiki
 Security
 Insights
 sxp-mapi-backend-onboarding/build/reports/tests/test/js/report.js
-/1/egv/*
+/1/egv/
 /api/2/wallet/egv/active
 /api/2/wallet/egv/link
 /1/egv/balance
@@ -28,11 +28,11 @@ sxp-mapi-backend-onboarding/build/reports/tests/test/js/report.js
 /1/egv/location
 /1/exchange/tnc
 /3/checkout/(pgResponse|pgCancelResponse)
-/3/checkout/*
+/3/checkout/
 /api/5/checkout/contact
 /3/checkout/paymentToken
-/1/payzippy/*
-/(1|2)/plutus/*
+/1/payzippy/
+/(1|2)/plutus/
 /1/cards/saved/account-form
 /1/fintech/apply/now 
 /1/fintech/fetch-metadata
